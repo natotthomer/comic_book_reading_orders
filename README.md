@@ -211,6 +211,11 @@ This is intended to be a personal reading order of X-Men and certain related tit
 - `Excalibur #20`
 - `X-Factor #47`
 - `Uncanny X-Men #256-263`
+
+## The 90's Begins
+
+### Part 1 - Cable
+
 - `New Mutants #86-89` - Cable's debut, Rob Liefeld era begins
 - `X-Factor #51-53, #55`
 - `Uncanny X-Men #265-267`
@@ -224,6 +229,7 @@ This is intended to be a personal reading order of X-Men and certain related tit
   - `X-Factor Annual #5`
   - `Uncanny X-Men Annual #14`
 - `Excalibur #28-31`
+
 #### X-Tinction Agenda
   - `Uncanny X-Men #270`
   - `New Mutants #95`
@@ -240,6 +246,9 @@ This is intended to be a personal reading order of X-Men and certain related tit
 - `X-Factor: #63-64` - Louise Simonson's final issues
 - `Excalibur #32-36` - Girls' School from Heck
 - `Marvel Comics Presents #72-84` - Weapon X
+
+### Part 2 - Muir Island Saga
+
 #### Kings of Pain
   - `New Mutants Annual #7`
   - `New Warriors Annual #1`
@@ -256,6 +265,9 @@ This is intended to be a personal reading order of X-Men and certain related tit
   - `Uncanny X-Men #280`
   - `X-Factor #70`
 - `Marvel Comics Presents #85-92`
+
+### Part 3 - Mutant Genesis
+
 - `X-Factor #71-75` - Peter David's run begins
 - `X-Men #1-3` - Mutant Genesis
 - `X-Force #1-4`
@@ -280,6 +292,9 @@ This is intended to be a personal reading order of X-Men and certain related tit
   - `Uncanny X-Men Annual (1992) #16`
   - `X-Factor Annual (1992) #7`
   - `X-Force Annual (1992) #1`
+
+### Part 4 - X-Cutioner's Song
+
 - `X-Men #10-13`
 - `X-Factor #79-81`
 - `Uncanny X-Men #291-293`
@@ -306,3 +321,7 @@ This is intended to be a personal reading order of X-Men and certain related tit
 - `X-Men #17-19`
 - `Uncanny X-Men #298-300`
 - `X-Force #20-23`
+
+## The 90s Continue
+
+### Part 1 - Fatal Attractions
