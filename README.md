@@ -315,12 +315,10 @@ This is intended to be a personal reading order of X-Men and certain related tit
   - `X-Men #16`
   - `X-Force #18`
   - `Stryfe’s Strike File`
-  - `Uncanny X-Men #297`
-  - `X-Force #19`
+- `Uncanny X-Men #297-300`
+- `X-Force #19-23`
 - `X-Factor #87`
 - `X-Men #17-19`
-- `Uncanny X-Men #298-300`
-- `X-Force #20-23`
 
 ## The 90s Continue
 
